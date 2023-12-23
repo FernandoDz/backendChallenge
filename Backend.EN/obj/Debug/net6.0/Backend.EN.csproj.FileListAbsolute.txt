@@ -1,0 +1,12 @@
+C:\Users\dfer4\source\repos\backend-ensolvers\Backend.EN\bin\Debug\net6.0\Backend.EN.deps.json
+C:\Users\dfer4\source\repos\backend-ensolvers\Backend.EN\bin\Debug\net6.0\Backend.EN.dll
+C:\Users\dfer4\source\repos\backend-ensolvers\Backend.EN\bin\Debug\net6.0\Backend.EN.pdb
+C:\Users\dfer4\source\repos\backend-ensolvers\Backend.EN\obj\Debug\net6.0\Backend.EN.csproj.AssemblyReference.cache
+C:\Users\dfer4\source\repos\backend-ensolvers\Backend.EN\obj\Debug\net6.0\Backend.EN.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dfer4\source\repos\backend-ensolvers\Backend.EN\obj\Debug\net6.0\Backend.EN.AssemblyInfoInputs.cache
+C:\Users\dfer4\source\repos\backend-ensolvers\Backend.EN\obj\Debug\net6.0\Backend.EN.AssemblyInfo.cs
+C:\Users\dfer4\source\repos\backend-ensolvers\Backend.EN\obj\Debug\net6.0\Backend.EN.csproj.CoreCompileInputs.cache
+C:\Users\dfer4\source\repos\backend-ensolvers\Backend.EN\obj\Debug\net6.0\Backend.EN.dll
+C:\Users\dfer4\source\repos\backend-ensolvers\Backend.EN\obj\Debug\net6.0\refint\Backend.EN.dll
+C:\Users\dfer4\source\repos\backend-ensolvers\Backend.EN\obj\Debug\net6.0\Backend.EN.pdb
+C:\Users\dfer4\source\repos\backend-ensolvers\Backend.EN\obj\Debug\net6.0\ref\Backend.EN.dll

@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "YX5bveAPusCRZ0ffNeCi5KVFkjfQq3Ig3evavK54KbE=",
+  "Source": "backend-ensolvers.WEBAPI",
+  "BasePath": "_content/backend-ensolvers.WEBAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
